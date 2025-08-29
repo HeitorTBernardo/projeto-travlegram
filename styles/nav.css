@@ -20,7 +20,7 @@ nav ul li:last-child img {
   width: 40px;
   height: 40px;
   
-  /*caso a imagem não seja um quadrado e arredondamento das bordas*/
+  /*caso a imagem não seja um quadrado perfeito e arredondamento das bordas*/
   object-fit: cover;
   border-radius: 50%;
 }
